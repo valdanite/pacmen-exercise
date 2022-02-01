@@ -9,3 +9,7 @@ git clone https://github.com/valdanite/pacmen-exercise.git
 ```
 
 Open index.html to run this project.
+
+# Future Improvements
+* Add random colors to PacMen as they move around the browser.
+* A pause button to stop PacMen from jumping everywhere.
